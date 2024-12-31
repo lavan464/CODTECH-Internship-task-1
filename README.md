@@ -32,6 +32,9 @@ This project is a **personal portfolio website** that showcases the skills, proj
 5. **Footer**:
    - Displays a copyright message with the current year.
    - Maintains consistent styling with the header.
+  
+     ![image](https://github.com/user-attachments/assets/3107cf4c-4dc5-496a-b266-4e46c0e72a45)
+
 
 
  
